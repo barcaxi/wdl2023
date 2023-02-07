@@ -1,6 +1,6 @@
 # D3 Exercise 4 – D3 Data Fetching
 		
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help.
+> Complete ALL the exercises in this section. Ask thomas.devine@atu.ie for help.
 
 
 ## Part 1
