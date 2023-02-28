@@ -11,7 +11,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``leaflet`` w
 
 ## Hello Leaflet 
 
-1.	Open and examine the file [http://localhost/leaflet/HelloLeaflet.html](http://localhost/Leaflet/HelloLeaflet.html)
+1.	Open and examine the file [http://localhost/leaflet/HelloLeaflet.html](http://localhost/leaflet/HelloLeaflet.html)
 
 1.	Using your code editor change the map center coordinates to your home or a well known location.  Experiment with the zoom too.
 
@@ -20,7 +20,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``leaflet`` w
 
 ## Big 5
 
-1.	Open and examine the file [http://localhost/leaflet/Big5.html](http://localhost/Leaflet/Big5.html).  Provide the code to implement the solution shown [here](images/Big5.gif)
+1.	Open and examine the file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html).  Provide the code to implement the solution shown [here](images/Big5.gif)
 
 	Keep the `.js` and `.html` code separate.
 
