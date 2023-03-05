@@ -24,19 +24,19 @@ Check your ``htdocs`` folder.  You should have a new folder called ``leaflet`` w
 	![](images/Big5Icons.png)
 
 
-## Circles
+## Big 5 Circles
 
 1.	Update your code file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html) to show a 200 metre circle around each stadium as shown here:
 
 	![](images/Big5Circle.png)
 
 	
-## Popups
+## Big 5 Popups
 
 1.	Update your code file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html) to show a popup with the stadium name when clicked as shown [here](images/Big5Popups.gif)
 
 
-## Events
+## Big 5 Events
 
 1.	Update your code file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html) to show a popup with capacity information when the stadium circle is clicked as shown [here](images/Big5Events.gif)
 
