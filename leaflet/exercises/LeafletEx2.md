@@ -1,4 +1,4 @@
-# Leaflet Exercise 1
+# Leaflet Exercise 2
 
 <!-- ## Clone the Remote Repository
 
