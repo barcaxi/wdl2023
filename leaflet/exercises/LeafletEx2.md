@@ -13,7 +13,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``leaflet`` w
 
 1.	Update your code file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html) to show a marker for each stadium as shown here:
 
-	[](images/Big5Markers.png)
+	![](images/Big5Markers.png)
 
 	Consider storing the stadium locations in an array.  Keep the `.js` and `.html` code separate!
 
@@ -21,14 +21,14 @@ Check your ``htdocs`` folder.  You should have a new folder called ``leaflet`` w
 
 1.	Update your code file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html) to show a [icon](images/stadium.png) marker for each stadium as shown here:
 
-	[](images/Big5Icons.png)
+	![](images/Big5Icons.png)
 
 
 ## Circles
 
 1.	Update your code file [http://localhost/leaflet/Big5.html](http://localhost/leaflet/Big5.html) to show a 200 metre circle around each stadium as shown here:
 
-	[](images/Big5Circle.png)
+	![](images/Big5Circle.png)
 
 	
 ## Popups
